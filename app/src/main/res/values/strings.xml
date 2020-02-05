@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="email">Email</string>
+    <string name="repositories">Repositories</string>
+    <string name="name">Name</string>
+</resources>
